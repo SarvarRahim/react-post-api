@@ -1,0 +1,29 @@
+.posts-form {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.posts-text {
+  padding: 16px 22px;
+  margin-right: 12px;
+}
+
+.post-body__desc {
+  width: 20%;
+  resize: none;
+  padding: 8px 14px
+}
+
+.post-add__btn {
+  border: 0;
+  background-color: #01626d;
+  padding: 14px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #fff;
+}

@@ -1,0 +1,24 @@
+.posts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-left: 45px;
+  padding-right: 45px;
+  margin-top: 20px;
+  width: 60%;
+}
+
+.posts-item {
+  background-color: #efefef;
+  padding: 10px 8px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.posts-item__title {
+  margin: 0;
+}
+
+.posts-item__desc {
+  margin-bottom: 0;
+}
